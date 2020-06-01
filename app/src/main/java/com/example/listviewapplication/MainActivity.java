@@ -39,10 +39,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Another comment
-        // This is just a change
-        //Hello World
-
-
+        // Just change the name peach to apple
     }
 }

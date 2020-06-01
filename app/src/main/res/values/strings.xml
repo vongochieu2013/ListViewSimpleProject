@@ -2,7 +2,7 @@
     <string name="app_name">ListViewApplication</string>
 
     <string-array name="items">
-        <item>peach</item>
+        <item>apple</item>
         <item>potato</item>
         <item>squash</item>
     </string-array>
