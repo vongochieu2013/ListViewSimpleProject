@@ -56,12 +56,11 @@ public class ItemAdapter extends BaseAdapter {
         descriptionTextView.setText(desc);
         priceTextView.setText(cost);
 
+        //Another simple comment at 10:05 pm
+        //Another 10:07 pm
+        // 10:09 pm
+
         return v;
     }
 
-    // Hello World Change
-    // asfsgsdfgsdfg
-    // sfsdfdsfgsdfgdfgsdfgdsfgsdfg
-    
-    // Updated 8:42 PM
 }
