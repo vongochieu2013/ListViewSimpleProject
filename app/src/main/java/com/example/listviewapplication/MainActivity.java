@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
         
         // Here's another change in 8:27 PM 06/01/2020
         // By Hieu Vo
-        // helasfsdfsdf
+        
+        //Comfirm change 8:29 PM
     }
 }
