@@ -57,4 +57,6 @@ public class DetailActivity extends AppCompatActivity {
 
 
     }
+
+    // Test DetailActivity
 }
