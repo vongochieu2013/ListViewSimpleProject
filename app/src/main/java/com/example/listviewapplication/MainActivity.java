@@ -4,7 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.content.res.Resources;
+import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
@@ -40,5 +42,11 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(showDetailActivity);
             }
         });
+
+        MediaPlayer ring = MediaPlayer.create(getApplicationContext(), R.raw.shapeofyou);
+        ring.start();
+
+        // This is just a commment
+        //asfasfasasf
     }
 }
